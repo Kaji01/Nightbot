@@ -1,1 +1,1 @@
-if (a == "Kaji_Sensei") {"Hi, Kaji!"} else { "Hi, not-Kaji?" }
+if (a == "Kaji_Sensei") {"Hi, "+a+"!"} else { "Hi, stranger?" }
