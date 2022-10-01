@@ -1,1 +1,1 @@
-[`Custom greeting for relevant user.`]
+"Custom greeting for relevant user."
