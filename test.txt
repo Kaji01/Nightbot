@@ -1,1 +1,1 @@
-"Custom greeting for relevant user."
+if (a == "Kaji_Sensei") {"Custom greeting for relevant user."} else { "Something Else" }
